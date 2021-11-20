@@ -6,6 +6,7 @@ documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
+# Preface {-}
 
-Hello!!
+In this book, we will introduce an interesting
+method.
