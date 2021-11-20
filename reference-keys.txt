@@ -2,3 +2,6 @@ create-your-open-textbook
 introduction
 literature
 methods
+applications
+example-one
+example-two
